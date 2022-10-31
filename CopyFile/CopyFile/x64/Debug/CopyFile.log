@@ -1,0 +1,4 @@
+﻿  CopyFile.c
+C:\Users\achiy\Desktop\visual studio\argc argv\CopyFile\CopyFile\CopyFile.c(22,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\argc argv\CopyFile\CopyFile\CopyFile.c(45,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CopyFile.vcxproj -> C:\Users\achiy\Desktop\visual studio\argc argv\CopyFile\x64\Debug\CopyFile.exe
